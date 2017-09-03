@@ -1,2 +1,0 @@
-# gordiTi
-pemrograman
